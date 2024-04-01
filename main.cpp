@@ -31,7 +31,7 @@ class Fly: public Movement
 {
     void movement() override
     {
-        cout << "Бульк - бульк" << endl;
+        cout << "Ну все, бб, я полетел" << endl;
     }
 };
 class Lay :public Movement
